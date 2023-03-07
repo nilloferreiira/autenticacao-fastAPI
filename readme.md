@@ -1,6 +1,6 @@
 ## Sistema de autenticação
 
-Esse projeto feito em python, com o obejitvo de criar um sistema de login e cadastro para aprender a usar o fastAPI usando o sistema ORM e o padrão MVC junto com o banco de dados MySQL
+Esse projeto feito em python, com o obejitvo de criar um sistema de login e cadastro para aprender a usar o fastAPI usando o sistema ORM junto com o banco de dados MySQL
 
 ## Features
 
