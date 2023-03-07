@@ -29,7 +29,7 @@ Esse projeto feito em python, com o obejitvo de criar um sistema de login e cada
   - no windows use `venv/scripts/activate` no terminal para ativar o ambiente virtual
   - no mac/linux `source venv/bin/activate`
   - abra o wampserver  na porta 3308 e logue com o usuário "root" e a senha ""
-  - roda o uvicorn no terminal `uvicorn main:app --reload`
+  - rode o uvicorn no terminal `uvicorn main:app --reload`
   - acesse `http://127.0.0.1:8000/docs`
   - faça seus testes
 
